@@ -1,4 +1,4 @@
-# [LICENCE.md](Kotodama-Architect Brand Assets and Logo License)
+# [LICENCE] Kotodama-Architect Brand Assets and Logo License
 
 **Copyright © 2025 Kotodama-Architect. All rights reserved.**
 
